@@ -1,16 +1,24 @@
 # Michael Christenson
 
-Full-stack developer building AI-powered dev tooling.
+Full-stack software engineer, 7+ years, based in Los Angeles.
 
-TypeScript · Next.js · PostgreSQL · Node.js
-
-[mchristenson5891@gmail.com](mailto:mchristenson5891@gmail.com)
+[mchristenson5891@gmail.com](mailto:mchristenson5891@gmail.com) · [LinkedIn](https://linkedin.com/in/michaelchristenson5891)
 
 <br>
 
 ## Currently
 
-Building AI-driven automation for the dev lifecycle — issue tracking to shipped code — and growing **Sprokit**, a product I've been iterating on since 2021.
+Software Developer II on the **App Marketplace** team at **Zoom Video Communications** — building and shipping React/Next.js and Node.js/Spring services for thousands of third-party integrations and millions of monthly active users.
+
+Outside of that, building AI-driven dev automation and growing **Sprokit**, a SaaS platform I took from a two-person team to sole engineer, shipping the product that secured $200K+ in state contracts.
+
+<br>
+
+## Experience
+
+**Zoom Video Communications** — Software Developer II → I, App Marketplace *(2022 – Present)*
+**Sprokit** — Full Stack Engineer *(2020 – 2022)*
+**General Assembly** — Lead Instructor, full-stack bootcamp *(2018 – 2020)*
 
 <br>
 
@@ -32,19 +40,19 @@ Transparent, always-on-top desktop overlay for streamers — chat, votes, and fa
 
 ## Stack
 
-**Languages** — TypeScript, JavaScript, HTML5, CSS3/SCSS
+**Languages** — TypeScript, JavaScript, Java, Python, SQL
 
-**Frontend** — React, Next.js, React Native, Expo, Tailwind CSS
+**Frontend** — React, Next.js, Tailwind CSS, React Native, Expo
 
-**Backend** — Node.js, Express, GraphQL, Zod
+**Backend** — Node.js, Express, NestJS, Spring Boot, Django, GraphQL, Apollo
 
-**Data** — PostgreSQL, Drizzle ORM, MongoDB, Firebase
+**Testing** — Jest, React Testing Library, Playwright, Vitest
 
-**Auth** — Clerk
+**Cloud & Infrastructure** — AWS (Lambda, Fargate, S3, SQS), Docker, Kubernetes, CI/CD, Vercel
 
-**Testing & CI** — Vitest, Playwright, GitHub Actions
+**Databases** — PostgreSQL, Drizzle ORM, MongoDB, Firebase/Firestore
 
-**Platform** — Vercel, Neon
+**AI & Developer Tooling** — MCP (Model Context Protocol), LLM integrations, GitHub Copilot, Cursor, Claude Code
 
 <br>
 
