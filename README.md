@@ -1,12 +1,12 @@
-# Michael Christenson
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:38bdf8,100:6366f1&height=4&width=100%25" width="100%"/>
+
+# Michael Christenson
 
 Full-stack software engineer, 7+ years, based in Los Angeles.
 
-[![Email](https://img.shields.io/badge/-mchristenson5891%40gmail.com-0d1117?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:mchristenson5891@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/michaelchristenson5891)
-[![GitHub](https://img.shields.io/badge/-mchristenson5891-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/mchristenson5891)
+[![Email](https://img.shields.io/badge/-mchristenson5891%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mchristenson5891@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logoColor=white)](https://linkedin.com/in/michaelchristenson5891)
+[![GitHub](https://img.shields.io/badge/-mchristenson5891-333333?style=flat-square&logo=github&logoColor=white)](https://github.com/mchristenson5891)
 
 <br>
 
