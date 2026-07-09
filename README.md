@@ -1,8 +1,12 @@
 # Michael Christenson
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:38bdf8,100:6366f1&height=4&width=100%25" width="100%"/>
+
 Full-stack software engineer, 7+ years, based in Los Angeles.
 
-[mchristenson5891@gmail.com](mailto:mchristenson5891@gmail.com) · [LinkedIn](https://linkedin.com/in/michaelchristenson5891)
+[![Email](https://img.shields.io/badge/-mchristenson5891%40gmail.com-0d1117?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:mchristenson5891@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/michaelchristenson5891)
+[![GitHub](https://img.shields.io/badge/-mchristenson5891-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/mchristenson5891)
 
 <br>
 
@@ -55,5 +59,11 @@ Transparent, always-on-top desktop overlay for streamers — chat, votes, and fa
 **AI & Developer Tooling** — MCP (Model Context Protocol), LLM integrations, GitHub Copilot, Cursor, Claude Code
 
 <br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=mchristenson5891&show_icons=true&hide_border=true&hide_title=true&bg_color=0d1117&title_color=38bdf8&icon_color=6366f1&text_color=c9d1d9" height="160"/>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:38bdf8,100:6366f1&height=4&width=100%25" width="100%"/>
 
 <sub>[github.com/mchristenson5891](https://github.com/mchristenson5891)</sub>
