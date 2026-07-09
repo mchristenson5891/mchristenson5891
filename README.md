@@ -60,10 +60,6 @@ Transparent, always-on-top desktop overlay for streamers — chat, votes, and fa
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=mchristenson5891&show_icons=true&hide_border=true&hide_title=true&bg_color=0d1117&title_color=38bdf8&icon_color=6366f1&text_color=c9d1d9" height="160"/>
-
-<br>
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:38bdf8,100:6366f1&height=4&width=100%25" width="100%"/>
 
 <sub>[github.com/mchristenson5891](https://github.com/mchristenson5891)</sub>
