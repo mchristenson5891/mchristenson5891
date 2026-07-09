@@ -20,9 +20,11 @@ Outside of that, building AI-driven dev automation and growing **Sprokit**, a Sa
 
 ## Experience
 
-**Zoom Video Communications** — Software Developer II → I, App Marketplace *(2022 – Present)*
-**Sprokit** — Full Stack Engineer *(2020 – 2022)*
-**General Assembly** — Lead Instructor, full-stack bootcamp *(2018 – 2020)*
+| | | |
+|---|---|---|
+| **Zoom Video Communications** | Software Developer II · App Marketplace | 2022 – Present |
+| **Sprokit** | Full Stack Engineer | 2020 – 2022 |
+| **General Assembly** | Lead Instructor, Full-Stack Bootcamp | 2018 – 2020 |
 
 <br>
 
